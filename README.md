@@ -24,7 +24,7 @@
   - Logs actions like bans, spam flags, and warnings using Discord embeds
 
 - 🧠 **Machine Learning Integration**
-  - Trained using `scikit-learn`.
+  - Trained using `scikit-learn`
   - Uses `joblib` to load the trained model into the bot
 
 - 🗃️ **MongoDB Integration**
